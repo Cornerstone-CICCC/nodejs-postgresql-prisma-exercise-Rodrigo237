@@ -9,10 +9,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/wH93vUyM)\r # NodeJS - PostgreSQL Prisma Assignment Exercise",
   "devDependencies": {
     "@types/express": "^5.0.5",
     "@types/node": "^24.10.1",
+    "@types/pg": "^8.15.6",
     "concurrently": "^9.2.1",
     "nodemon": "^3.1.11",
     "prisma": "^6.19.0",
@@ -21,6 +22,15 @@
   "dependencies": {
     "@prisma/client": "^6.19.0",
     "dotenv": "^17.2.3",
-    "express": "^5.1.0"
-  }
+    "express": "^5.1.0",
+    "pg": "^8.16.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cornerstone-CICCC/nodejs-postgresql-prisma-exercise-Rodrigo237.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Cornerstone-CICCC/nodejs-postgresql-prisma-exercise-Rodrigo237/issues"
+  },
+  "homepage": "https://github.com/Cornerstone-CICCC/nodejs-postgresql-prisma-exercise-Rodrigo237#readme"
 }
